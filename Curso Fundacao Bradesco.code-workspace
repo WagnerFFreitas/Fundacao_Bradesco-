@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Curso_Fundacao_Bradesco",
+			"path": "../../Curso_Fundacao_Bradesco"
+		}
+	],
+	"settings": {
+		"editor.accessibilityPageSize": 16,
+		"editor.fontSize": 16,
+		"cSpell.language": "pt-BR"
+	}
+}
